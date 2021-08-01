@@ -1,16 +1,24 @@
-### Hi there 👋
+## Oi! Sou o Philipe! (aka PH)
 
-<!--
-**philipe02/philipe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   💚 Apaixonado por tecnologia, jogos e fantasia
+-   📚 Cursando Sistemas de Informação na UNIFACS
+-   🗻 Focado em desenvolvimento Web
+-   🌱 Aprendendo React e SpringBoot
+-   💼 Atuando como QA atualmente
+-   🕺 Sempre aberto para feedbacks e bate papos
 
-Here are some ideas to get you started:
+<div> 
+  <br>
+  <a href="https://twitter.com/imph_ill" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&target=_blank" target="_blank"></a>
+  <a href = "mailto:philipe_02@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/philipe-santos-b6985116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<br>
+  <a href="https://github.com/philipe02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipe02&count_private=true&include_all_commits=true&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe02&theme=merko&layout=compact"/>
+</div>
+
+⚡
