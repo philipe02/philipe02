@@ -1,6 +1,6 @@
 ## Oi! Sou o Philipe! (aka PH)
 
--   💚 Apaixonado por tecnologia, jogos e fantasia
+-   💚 Apaixonado por tecnologia, jogos e histórias de fantasia
 -   📚 Cursando Sistemas de Informação na UNIFACS
 -   🗻 Focado em desenvolvimento Web
 -   🌱 Aprendendo React e SpringBoot
