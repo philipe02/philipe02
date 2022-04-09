@@ -3,8 +3,8 @@
 -   💚 Apaixonado por tecnologia, jogos e histórias de fantasia
 -   📚 Cursando Sistemas de Informação na UNIFACS
 -   🗻 Focado em desenvolvimento Web
--   🌱 Aprendendo React e SpringBoot
--   💼 Atuando como QA atualmente
+-   🌱 React e SpringBoot
+-   💼 Atuando como Dev Front-end atualmente
 -   🕺 Sempre aberto para feedbacks e bate papos
 
 <div> 
