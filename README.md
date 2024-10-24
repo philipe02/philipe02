@@ -1,10 +1,9 @@
 ## Oi! Sou o Philipe! (aka PH)
 
 -   💚 Apaixonado por tecnologia, jogos e histórias de fantasia
--   📚 Cursando Sistemas de Informação na UNIFACS
+-   📚 Formado em Sistemas de Informação na UNIFACS
 -   🗻 Focado em desenvolvimento Web
--   🌱 React e SpringBoot
--   💼 Atuando como Dev Front-end atualmente
+-   🌱 Typescript e Java
 -   🕺 Sempre aberto para feedbacks e bate papos
 
 <div> 
